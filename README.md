@@ -24,7 +24,15 @@ MySQL
 
 ====================================================================  
 
-Purpose:  
+Purpose and Learning  
 
 This project was created to demonstrate my programming skills,  
-in addition to demonstrate my self-taught ability as I was learning ReactJS, Typescript, and SpringBoot during the creation of this project.
+in addition to demonstrate my self-taught ability as I was learning ReactJS, Typescript, and SpringBoot during the development of this project.  
+It also makes me gained another hand-on experience in building a full-stack application.  
+
+====================================================================  
+
+Future Enhancements:  
+
+Adding notifications or reminders for upcoming events
+Integrating with Google Calendar for seamless event synchronization
