@@ -1,0 +1,18 @@
+Event model and EventRepos > create tables, connect to DB
+
+application.properties > set up configuration connect to DB
+
+controller , serviceImp.saveEvent> save data to database using http post
+
+serviceImp.getAllEvents() > get data 
+
+
+Observation:
+
+Controller is to map all Https methods by using @PostMapping()
+ServiceImp is to do/specific what the controller's method want to do
+
+
+===================
+
+endDate can be null;
