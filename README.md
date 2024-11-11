@@ -34,5 +34,7 @@ It also makes me gained another hand-on experience in building a full-stack appl
 
 Future Enhancements:  
 
-Adding notifications or reminders for upcoming events
-Integrating with Google Calendar for seamless event synchronization
+Adding notifications or reminders for upcoming events.  
+Adding key-word based search functionality and type-based filters to improve navigation.  
+Integrating with Google Calendar for seamless event synchronization  
+
