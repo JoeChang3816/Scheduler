@@ -1,0 +1,26 @@
+.MenuButtons{
+
+  border-radius: var(--mantine-radius-lg) !important;
+  background-color: var(--mantine-color-gray-7) !important;
+
+}
+
+[data-mantine-color-scheme='dark']{
+  --input-bd-focus: white !important;
+}
+
+.FormButton{
+  background-color: rgb(56, 56, 56) !important;
+}
+
+.ColorInput{
+  width: 9em;
+}
+
+.focus {
+    &:focus {
+      outline: 2px solid gray !important;
+      outline-offset: 3px;
+    }
+  }
+
